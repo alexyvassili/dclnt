@@ -1,0 +1,35 @@
+                         // DCLNT //
+
+                python package statistic
+
+
+    ~ What is Dclnt?
+
+      Dclnt is a library for obtaining words using statistic in python modules,
+      based on ast syntax trees and nltk semantic taggers.
+      It's intended for getting started very quickly
+      and was developed with best intentions in mind.
+
+    ~ Is it ready?
+
+      It's still not 1.0 but it's shaping up nicely and is
+      already widely used.  Consider the API to slightly
+      improve over time but we don't plan on breaking it.
+
+    ~ What do I need?
+
+      You can see all dependencies in 'requirements.txt'.
+      Check the docs for complete installation and usage instructions.
+
+    ~ Where are the docs?
+
+      We have no docs yet :)
+
+    ~ Where are the tests?
+
+      Tests? What tests?
+
+    ~ Where can I get help?
+
+      Nobody can help you...
+
