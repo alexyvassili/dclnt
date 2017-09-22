@@ -5,7 +5,7 @@ from distutils.core import setup
 setup(
     name='Dclnt',
     version=0.2,
-    url='https://github.com/',
+    url='https://github.com/alexyvassili/dclnt.git',
     license='MIT',
     author='Dclnt Community',
     author_email='escantor@gmail.com',
