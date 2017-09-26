@@ -18,6 +18,7 @@ setup(
     install_requires=[
         'nltk>=3.2',
         'function-pipe>=1.0',
+        'gitpython>=2.1',
     ],
 
     classifiers=[
